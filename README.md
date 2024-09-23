@@ -18,8 +18,6 @@ This section contains organized notes from the book, summarizing key concepts an
 
 
 
-*(Continue for additional chapters as needed)*
-
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -35,7 +33,7 @@ This section includes solutions to exercises from the book, organized by chapter
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request. 
 
 1. Fork the repository.
-2. Create a new branch (e.g., `feature/your-feature`).
+2. Create a new branch (e.g., `addition`).
 3. Make your changes.
 4. Submit a pull request.
 
