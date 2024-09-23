@@ -1,24 +1,22 @@
-# 📚 [Book Title]
+# 📚 Automate the Boring Stuff with Python
 
-Welcome to the repository for **[Book Title]** by **[Author Name]**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
+Welcome to the repository for **Automate the Boring Stuff with Python** by **Al Sweigart**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
 
 ## 📖 Overview
 
-- **Author:** [Author Name]
-- **Published:** [Year]
-- **Description:** A brief overview of the book and its key themes or topics.
+- **Author:** Al Sweigart
+- **Published:** 2014
+- **Description:** This book teaches practical programming for total beginners. It covers a range of tasks that can be automated using Python, from simple file handling to web scraping and automation of everyday tasks.
 
 ## 📝 Notes
 
 This section contains organized notes from the book, summarizing key concepts and important points.
 
-### Chapter 1: [Chapter Title]
-- Key concepts from Chapter 1.
-- Important definitions or theories.
+### Chapter 1: Python Basics
 
-### Chapter 2: [Chapter Title]
-- Key concepts from Chapter 2.
-- Important definitions or theories.
+### Chapter 2: Flow Control
+
+
 
 *(Continue for additional chapters as needed)*
 
@@ -27,17 +25,10 @@ This section contains organized notes from the book, summarizing key concepts an
 This section includes solutions to exercises from the book, organized by chapter.
 
 ### Chapter 1 Exercises
-- **Exercise 1.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
-
-- **Exercise 1.2:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
 
 ### Chapter 2 Exercises
-- **Exercise 2.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
 
-*(Continue for additional chapters as needed)*
+
 
 ## 🤝 Contributing
 
