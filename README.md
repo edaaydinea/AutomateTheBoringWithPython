@@ -32,6 +32,23 @@ This section contains organized notes from the book, summarizing key concepts an
 - [guessTheNumber.py](Chapter2/guessTheNumber.py): A Python script that implements a simple number guessing game.
 - [rockPaperScissors.py](Chapter2/rockPaperScissors.py): A Python script that implements a simple rock-paper-scissors game.
 
+
+# Chapter 3: Functions
+
+- [helloFunc.py](Chapter3/helloFunc.py): A Python script that defines a simple function.
+- [helloFunc2.py](Chapter3/helloFunc2.py): A Python script that demonstrates the use of function arguments.
+- [magic8Ball.py](Chapter3/magic8Ball.py): A Python script that implements a magic 8-ball game using functions.
+- [abcdCallStack.py](Chapter3/abcdCallStack.py): A Python script that demonstrates the call stack when functions are called.
+- [otherlocalscopes.py](Chapter3/otherlocalscopes.py): A Python script that shows how local scopes work in functions.
+- [readglobal.py](Chapter3/readglobal.py): A Python script that demonstrates how global variables can be read from within a function.
+- [localGlobalSameName.py](Chapter3/localGlobalSameName.py): A Python script that shows how local and global variables with the same name are treated.
+- [globalStatement.py](Chapter3/globalStatement.py): A Python script that demonstrates the use of the `global` statement.
+- [sameNameLocalGlobal.py](Chapter3/sameNameLocalGlobal.py): A Python script that shows how local and global variables with the same name are treated when the `global` statement is used.
+- [sameNameError.py](Chapter3/sameNameError.py): A Python script that demonstrates the error that occurs when a local and global variable have the same name and the `global` statement is not used.
+- [zeroDivide.py](Chapter3/zeroDivide.py): A Python script that demonstrates the error that occurs when dividing by zero.
+- [tryExceptZeroDivide.py](Chapter3/tryExceptZeroDivide.py): A Python script that uses a `try` and `except` block to handle the error that occurs when dividing by zero.
+- [zigzag.py](Chapter3/zigzag.py): A Python script that implements a zigzag pattern using functions.
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -43,6 +60,10 @@ This section includes solutions to exercises from the book, organized by chapter
 ### Chapter 2 Exercises
 
 - [Solutions](/Chapter2/solutions.ipynb)
+
+### Chapter 3 Exercises
+
+- [Solutions](/Chapter3/solutions.ipynb)
 
 ## 🤝 Contributing
 
