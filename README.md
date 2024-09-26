@@ -49,6 +49,18 @@ This section contains organized notes from the book, summarizing key concepts an
 - [tryExceptZeroDivide.py](Chapter3/tryExceptZeroDivide.py): A Python script that uses a `try` and `except` block to handle the error that occurs when dividing by zero.
 - [zigzag.py](Chapter3/zigzag.py): A Python script that implements a zigzag pattern using functions.
 
+# Chapter 4: Lists
+
+- [allMyCats1.py](Chapter4/allMyCats1.py): A Python script that demonstrates the use of lists.
+- [allMyCats2.py](Chapter4/allMyCats2.py): A Python script that demonstrates the use of lists and loops.
+- [mypets.py](Chapter4/mypets.py): A Python script that demonstrates the use of lists and the `in` operator.
+- [magic8ball2.py](Chapter4/magic8ball2.py): A Python script that implements a magic 8-ball game using lists.
+- [passingReference.py](Chapter4/passingReference.py): A Python script that demonstrates how lists are passed by reference.
+- [conway.py](Chapter4/conway.py): A Python script that implements Conway's Game of Life using lists.
+- [commaCode.py](Chapter4/commaCode.py): A Python script that converts a list to a comma-separated string.
+- [coinFlipStreaks.py](Chapter4/coinFlipStreaks.py): A Python script that simulates coin flips and checks for streaks.
+- [characterPictureGrid.py](Chapter4/characterPictureGrid.py): A Python script that rotates a 2D list by 90 degrees.
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -64,6 +76,10 @@ This section includes solutions to exercises from the book, organized by chapter
 ### Chapter 3 Exercises
 
 - [Solutions](/Chapter3/solutions.ipynb)
+
+## Chapter 4 Exercises
+
+- [Solutions](/Chapter4/solutions.ipynb)
 
 ## 🤝 Contributing
 
