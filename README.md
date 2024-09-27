@@ -61,6 +61,19 @@ This section contains organized notes from the book, summarizing key concepts an
 - [coinFlipStreaks.py](Chapter4/coinFlipStreaks.py): A Python script that simulates coin flips and checks for streaks.
 - [characterPictureGrid.py](Chapter4/characterPictureGrid.py): A Python script that rotates a 2D list by 90 degrees.
 
+# Chapter 5: Dictionaries and Structuring Data
+
+- [birthdays.py](Chapter5/birthdays.py): A Python script that stores birthdays in a dictionary.
+- [characterCount.py](Chapter5/characterCount.py): A Python script that counts the occurrences of characters in a string.
+- [prettyCharacterCount.py](Chapter5/prettyCharacterCount.py): A Python script that pretty-prints the character count.
+- [ticTacToe1.py](Chapter5/ticTacToe1.py): A Python script that implements a simple tic-tac-toe game.
+- [ticTacToe2.py](Chapter5/ticTacToe2.py): A Python script that implements a more advanced tic-tac-toe game.
+- [ticTacToe3.py](Chapter5/ticTacToe3.py): A Python script that implements a tic-tac-toe game with AI.
+- [guestpicnic.py](Chapter5/guestpicnic.py): A Python script that demonstrates the use of dictionaries.
+- [chessDictionaryValidator.py](Chapter5/chessDictionaryValidator.py): A Python script that validates a dictionary representing a chess board.
+- [fantasyGameInventory.py](Chapter5/fantasyGameInventory.py): A Python script that manages a player's inventory in a fantasy game.
+- [fantasyGameInventory2.py](Chapter5/fantasyGameInventory2.py): A Python script that adds items to a player's inventory in a fantasy game.
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -80,6 +93,10 @@ This section includes solutions to exercises from the book, organized by chapter
 ## Chapter 4 Exercises
 
 - [Solutions](/Chapter4/solutions.ipynb)
+
+## Chapter 5 Exercises
+
+- [Solutions](/Chapter5/solutions.ipynb)
 
 ## 🤝 Contributing
 
