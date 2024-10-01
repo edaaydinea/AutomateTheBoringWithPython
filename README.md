@@ -74,6 +74,18 @@ This section contains organized notes from the book, summarizing key concepts an
 - [fantasyGameInventory.py](Chapter5/fantasyGameInventory.py): A Python script that manages a player's inventory in a fantasy game.
 - [fantasyGameInventory2.py](Chapter5/fantasyGameInventory2.py): A Python script that adds items to a player's inventory in a fantasy game.
 
+# Chapter 6: Manipulating Strings
+
+- [cutnapping.py](Chapter6/cutnapping.py): A Python script that demonstrates string concatenation.
+- [covertLowerCase.py](Chapter6/covertLowerCase.py): A Python script that converts a string to lowercase.
+- [validateInput.py](Chapter6/validateInput.py): A Python script that validates user input.
+- [picnicTable.py](Chapter6/picnicTable.py): A Python script that prints a table of items.
+- [Project 1: Multi-Clipboard Automatic Messages](Chapter6/mcb.py): A Python script that implements a multi-clipboard for automatic messages.
+- [Project 2: Adding Bullets to Wiki Markup](Chapter6/bulletPointAdder.py): A Python script that adds bullets to wiki markup.
+- [Project 3: A Short Program: Pig Latin](Chapter6/pigLatin.py): A Python script that converts English text to Pig Latin.
+- [Practice Project: Table Printer](Chapter6/tablePrinter.py): A Python script that prints a table from a list of lists.
+- [Practice Proejct2: Zombie Dice Bots](Chapter6/myZombie.py): A Python script that implements bots for the Zombie Dice game.
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -97,6 +109,10 @@ This section includes solutions to exercises from the book, organized by chapter
 ## Chapter 5 Exercises
 
 - [Solutions](/Chapter5/solutions.ipynb)
+
+## Chapter 6 Exercises
+
+- [Solutions](/Chapter6/solutions.ipynb)
 
 ## 🤝 Contributing
 
