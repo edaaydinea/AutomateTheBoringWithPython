@@ -122,6 +122,12 @@ This section contains organized notes from the book, summarizing key concepts an
 * [PracticeProject1: Sandwich Maker](Chapter8/PracticeProject1_SandwichMaker/sandwichMaker.py): A Python script that implements a sandwich maker program.
 * [PracticeProject2: Write your own multiplication quiz](Chapter8/PracticeProject2_WriteYourOwnMultiplicationQuiz/multiplicationQuiz.py): A Python script that implements a custom multiplication quiz program.
 
+### Chapter 9: Reading and Writing Files
+* [Project1: Generating Random Quiz Files](Chapter9/Project1_GeneratingRandomQuizFiles/randomQuizGenerator.py): A Python script that generates random quiz files.
+* [Project2: Updatable Multi-Clipboard](Chapter9/Project2_UpdatableMultiClipboard/mcb.py): A Python script that implements an updatable multi-clipboard.
+* [PracticeProject1: Extending the Multi-Clipboard](Chapter9/PracticeProject1_ExtendingTheWriteClipboard/multi_clipboard.py): A Python script that extends the multi-clipboard program.
+* [PracticeProject2: Mad Libs](Chapter9/PracticeProject2_MadLibs/mad_libs.py): A Python script that implements a Mad Libs game.
+* [PracticeProject3: Regex Search](Chapter9/PracticeProject3_RegexSearch/regex_search.py): A Python script that searches for a regex pattern in files.
 
 ## 💡 Exercise Solutions
 
@@ -156,7 +162,12 @@ This section includes solutions to exercises from the book, organized by chapter
 * [Solutions](/Chapter7/solutions.ipynb)
 
 ## Chapter 8 Exercises
+
 * [Solutions](/Chapter8/solutions.ipynb)
+
+## Chapter 9 Exercises
+
+* [Solutions](/Chapter9/solutions.ipynb)
 
 ## 🤝 Contributing
 
