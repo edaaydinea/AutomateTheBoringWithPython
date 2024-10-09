@@ -151,6 +151,19 @@ This section contains organized notes from the book, summarizing key concepts an
 * [buggingAddingProgram.py](Chapter11/buggingAddingProgram.py): A Python script that demonstrates debugging a program.
 * [Project1: Debugging Coin Toss](Chapter11/Project1_DebuggingCoinToss/debugCoinToss.py): A Python script that debugs a coin toss program.
 
+
+### Chapter 12: Web Scraping
+* [Project1: MapIt](Chapter12/Project1/mapIt.py): A Python script that opens a map in the browser using an address from the command line or clipboard.
+* [Project2: Example Program](Chapter12/Project2/example.py): A Python script that demonstrates web scraping with the Requests and BeautifulSoup modules.
+* [Project3: Searching Pypi.org with the Requests Module](Chapter12/Project3/searchPypi.py): A Python script that searches PyPI.org for packages.
+* [Project4: Product Searching on Amazon](Chapter12/Project4/amazon.py): A Python script that searches for products on Amazon.]
+* [Project5: Downloading XKCD Comics](Chapter12/Project5/downloadXkcd.py): A Python script that downloads XKCD comics.
+* [PracticeProject1: Command Line Emailer](Chapter12/PracticeProject1/commandLineEmailer.py): A Python script that sends emails from the command line.
+* [PracticeProject2: Image Site Downloader](Chapter12/PracticeProject2/imageSiteDownloader.py): A Python script that downloads images from a website.
+* [PracticeProject3: 2048](Chapter12/PracticeProject3/2048.py): A Python script that plays the 2048 game.
+* [PracticeProject4: Link Verification](Chapter12/PracticeProject4/linkVerification.py): A Python script that verifies links on a website.
+* 
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -176,6 +189,8 @@ This section includes solutions to exercises from the book, organized by chapter
 ### [Chapter 10 Exercise Solutions](Chapter10/solutions.ipynb)
 
 ### [Chapter 11 Exercise Solutions](Chapter11/solutions.ipynb)
+
+### [Chapter 12 Exercise Solutions](Chapter12/solutions.ipynb)
 
 ## 🤝 Contributing
 
