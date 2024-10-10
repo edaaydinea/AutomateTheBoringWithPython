@@ -162,7 +162,18 @@ This section contains organized notes from the book, summarizing key concepts an
 * [PracticeProject2: Image Site Downloader](Chapter12/PracticeProject2/imageSiteDownloader.py): A Python script that downloads images from a website.
 * [PracticeProject3: 2048](Chapter12/PracticeProject3/2048.py): A Python script that plays the 2048 game.
 * [PracticeProject4: Link Verification](Chapter12/PracticeProject4/linkVerification.py): A Python script that verifies links on a website.
-* 
+
+
+### Chapter 13: Working with Excel Spreadsheets
+
+* [Chapter Notes](/Chapter13/chapter_notes.ipynb)
+* [Project 1: Read Census Excel](/Chapter13/Project1/readCensusExcel.py)
+* [Project 2: Update Producers Price](/Chapter13/Project2/updateProducers.py)
+* [PracticeProject1: Multiplication Table Maker](/Chapter13/PracticeProject1/multiplicationTable.py)
+* [PracticeProject2: Blank Row Inserter](/Chapter13/PracticeProject2/blankRowInserter.py)
+* [PracticeProject3: Spreadsheet Cell Inverter](/Chapter13/PracticeProject3/spreadsheetCellInverter.py)
+* [PracticeProject4: Text Files to Spreadsheet](/Chapter13/PracticeProject4/textFilesToSpreadsheet.py)
+* [PracticeProject5: Spreadsheet to Text Files](/Chapter13/PracticeProject5/spreadsheetToTextFiles.py)
 
 ## 💡 Exercise Solutions
 
@@ -191,6 +202,8 @@ This section includes solutions to exercises from the book, organized by chapter
 ### [Chapter 11 Exercise Solutions](Chapter11/solutions.ipynb)
 
 ### [Chapter 12 Exercise Solutions](Chapter12/solutions.ipynb)
+
+### [Chapter 13 Exercise Solutions](Chapter13/solutions.ipynb)
 
 ## 🤝 Contributing
 
