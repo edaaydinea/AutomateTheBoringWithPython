@@ -175,6 +175,17 @@ This section contains organized notes from the book, summarizing key concepts an
 * [PracticeProject4: Text Files to Spreadsheet](/Chapter13/PracticeProject4/textFilesToSpreadsheet.py)
 * [PracticeProject5: Spreadsheet to Text Files](/Chapter13/PracticeProject5/spreadsheetToTextFiles.py)
 
+### Chapter 15: Working with PDF and Word Documents
+
+* [Chapter Notes](Chapter15/chapter_notes.ipynb)
+* [Project 1: Combine PDFs](Chapter15/Project1/combinePdfs.py)
+  * [Project 1.1: Cutting out specific pages from a PDF](Chapter15/Project1/extractPages.py)
+  * [Project 1.2: Reordering pages](Chapter15/Project1/reorderPages.py)
+  * [Project 1.3: Create a PDF from only specific pages](Chapter15/Project1/extractPagesWithText.py)
+* [PracticeProject1: Paranoia Text to PDF](Chapter15/PracticeProject1/pdfParanoia.py)
+* [PracticeProject2: Custom Invitations as Word Documents](Chapter15/PracticeProject2/guests.py)
+* [PracticeProject3: Brute-Force PDF Password Breaker](Chapter15/PracticeProject3/bruceForce.py)
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -204,6 +215,8 @@ This section includes solutions to exercises from the book, organized by chapter
 ### [Chapter 12 Exercise Solutions](Chapter12/solutions.ipynb)
 
 ### [Chapter 13 Exercise Solutions](Chapter13/solutions.ipynb)
+
+### [Chapter 15 Exercise Solutions](Chapter15/solutions.ipynb)
 
 ## 🤝 Contributing
 
