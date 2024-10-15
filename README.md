@@ -186,6 +186,22 @@ This section contains organized notes from the book, summarizing key concepts an
 * [PracticeProject2: Custom Invitations as Word Documents](Chapter15/PracticeProject2/guests.py)
 * [PracticeProject3: Brute-Force PDF Password Breaker](Chapter15/PracticeProject3/bruceForce.py)
 
+### Chapter 16: Working with CSV Files and JSON Data
+
+* [Chapter Notes](Chapter16/chapter_notes.ipynb)
+* [Project 1: Removing the Header from CSV Files](Chapter16/Project1/removeCsvHeader.py)
+* [Project 2: Fetching Current Weather Data](Chapter16/Project2/getOpenWeather.py)
+* [PracticeProject1: Excel to CSV](Chapter16/PracticeProject1/excelToCSV.py)
+  
+
+### Chapter 17: Keeping Time, Scheduling Tasks, and Launching Programs
+
+* [Chapter Notes](Chapter17/chapter_notes.ipynb)
+* [Project 1: Stop Watch](Chapter17/Project1/stopwatch.py)
+* [Project 2: Multithreaded XKCD Downloader](Chapter17/Project2/threadedDownloadXkcd.py)
+* [Project 3: Countdown Program](Chapter17/Project3/countdown.py)
+* [PracticeProject1: Prettified Stopwatch](Chapter17/PracticeProject1/prettified_stopwatch.py)
+
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
@@ -217,6 +233,10 @@ This section includes solutions to exercises from the book, organized by chapter
 ### [Chapter 13 Exercise Solutions](Chapter13/solutions.ipynb)
 
 ### [Chapter 15 Exercise Solutions](Chapter15/solutions.ipynb)
+
+### [Chapter 16 Exercise Solutions](Chapter16/solutions.ipynb)
+
+### [Chapter 17 Exercise Solutions](Chapter17/solutions.ipynb)
 
 ## 🤝 Contributing
 
