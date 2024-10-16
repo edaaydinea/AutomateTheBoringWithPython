@@ -1,7 +1,9 @@
 #! python3
 # getOpenWeather.py - Prints the weather for a location from the command line.
 
-APPID = "49fcbb31bd21504ad782200cf27ac76f"
+# Read the APPID from an external text file
+with open('appid.txt', 'r') as file:
+    APPID = file.read().strip()
 
 import json, requests, sys
 
