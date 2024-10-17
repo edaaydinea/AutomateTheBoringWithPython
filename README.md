@@ -192,7 +192,6 @@ This section contains organized notes from the book, summarizing key concepts an
 * [Project 1: Removing the Header from CSV Files](Chapter16/Project1/removeCsvHeader.py)
 * [Project 2: Fetching Current Weather Data](Chapter16/Project2/getOpenWeather.py)
 * [PracticeProject1: Excel to CSV](Chapter16/PracticeProject1/excelToCSV.py)
-  
 
 ### Chapter 17: Keeping Time, Scheduling Tasks, and Launching Programs
 
@@ -201,6 +200,14 @@ This section contains organized notes from the book, summarizing key concepts an
 * [Project 2: Multithreaded XKCD Downloader](Chapter17/Project2/threadedDownloadXkcd.py)
 * [Project 3: Countdown Program](Chapter17/Project3/countdown.py)
 * [PracticeProject1: Prettified Stopwatch](Chapter17/PracticeProject1/prettified_stopwatch.py)
+
+### Chapter 18: Manipulating Images
+
+* [Chapter Notes](Chapter18/chapter_notes.ipynb)
+* [Project 1: Adding a Logo](Chapter18/Project1/resizeAndAddLogo.py)
+* [PracticeProject1: Extending and Fixing the Chapter Project](Chapter18/PracticeProject1/resizeAndAddLogo.py)
+* [PracticeProject2: Identifying Photo Folders on the Hard Drive](Chapter18/PracticeProject2/photoFolders.py)
+* [PracticeProject3: Custom Seating Cards](Chapter18/PracticeProject3/customSeatingCards.py)
 
 ## 💡 Exercise Solutions
 
@@ -237,6 +244,8 @@ This section includes solutions to exercises from the book, organized by chapter
 ### [Chapter 16 Exercise Solutions](Chapter16/solutions.ipynb)
 
 ### [Chapter 17 Exercise Solutions](Chapter17/solutions.ipynb)
+
+### [Chapter 18 Exercise Solutions](Chapter18/solutions.ipynb)
 
 ## 🤝 Contributing
 
