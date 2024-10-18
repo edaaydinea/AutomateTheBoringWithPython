@@ -201,7 +201,7 @@ This section contains organized notes from the book, summarizing key concepts an
 * [Project 3: Countdown Program](Chapter17/Project3/countdown.py)
 * [PracticeProject1: Prettified Stopwatch](Chapter17/PracticeProject1/prettified_stopwatch.py)
 
-### Chapter 18: Manipulating Images
+### Chapter 19: Manipulating Images
 
 * [Chapter Notes](Chapter18/chapter_notes.ipynb)
 * [Project 1: Adding a Logo](Chapter18/Project1/resizeAndAddLogo.py)
